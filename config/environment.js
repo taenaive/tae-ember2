@@ -3,6 +3,7 @@
 module.exports = function(environment) {
   var ENV = {
     modulePrefix: 'tae-ember2',
+    podModulePrefix: 'tae-ember2/pods',
     environment: environment,
     baseURL: '/',
     locationType: 'auto',
